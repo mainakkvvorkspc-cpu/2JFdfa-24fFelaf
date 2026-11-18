@@ -1,2 +1,2 @@
-SGATE2|stopped|-|0|1794969994|ало ебалай я не на столько туп!!
-fe61f8e46be539bbb43bd47e21a0dd21a0942720e7c3aae5b61d190b53e36038
+SGATE2|stopped|-|0|1794969997|0xee2fsr32
+faff5ba61f6db77780d9ef64f05d7d8f6a6e3d720d70bf92d1b88b89abff6f8f
