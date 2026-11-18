@@ -1,2 +1,2 @@
-SGATE2|running|-|1795084705|1794998305|0xShip_not_build_to_dll
-239c8b491771a33063cbfb178504ad511fdbd70df45916eb96875e0a9c2ceacc
+SGATE2|stopped|-|0|1794998321|0xShip_not_build_to_dll
+9b2e860879a826f20f01aab5c0d370ade9a5cb165bcaa3b45b0feffa47f44fe9
