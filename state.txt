@@ -1,2 +1,2 @@
-SGATE2|running|-|1795056008|1794969608|The cheat is temporarily disabled. Try again later or contact support.
-7c5963c854da27d8b4b6964aea559fc2febefb526087813a6db4fb9e77435f0d
+SGATE2|stopped|-|0|1794969684|The cheat is temporarily disabled. Try again later or contact support.
+12618db164788aecdb2e8c53a8b376a6ff0f42af47270c875680d8146a5dbf23
